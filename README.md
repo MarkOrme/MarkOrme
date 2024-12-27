@@ -10,7 +10,11 @@ One day, I learned just how slow ‘slow’ could get. The connection was so pai
 When it comes to programming, **C**, **C++**, and **C#** are my playgrounds. These languages let me dive deep and build software that’s both functional and complex. Whether it’s automating payroll systems, solving thorny SDK problems, or connecting businesses in high-stakes transactions, I enjoy rolling up my sleeves and creating code that works hard and plays nice.  
 
 ## My Journey  
-My path into tech has been anything but boring. I earned my **Electrical Engineering Degree** from the University of British Columbia, where I learned the foundations of problem-solving and systems thinking. Along the way, I added a **Programmer/Analyst Diploma**, a **CAPM Diploma**, and a **Project Management Certificate** to my toolkit. These aren’t just lines on a résumé—they represent the experiences that shaped how I approach problems, collaborate with teams, and deliver results.  
+My path into tech has been anything but conventional. It all started with a Programmer/Analyst Diploma from CDI College, where I got my first taste of programming. From there, I dove into night school courses, expanding my understanding of C programming and SQL Server, and learning to write reports with Crystal Reports and develop applications using MS Visual Basic. I also picked up skills in project management with MS Project, gaining insight into waterfall-style project structures. Additionally, I broadened my software development knowledge with an Agile/Scrum Methodology course, which taught me how to bring software ideas to life.
+
+Later, I took the leap into full-time study and earned my Electrical Engineering Degree from the University of British Columbia. That experience not only sharpened my technical skills but also deepened my love for solving complex problems and designing innovative solutions.
+
+Through all these steps, I've built a toolkit that’s as diverse as the projects I’ve tackled—and my love for learning continues to fuel my journey. 
 
 Through it all, I’ve been fortunate to work in roles that challenge and inspire me, from writing code for large-scale systems to helping teams and customers unlock their potential with the right tools and processes. I love learning, teaching, and sharing ideas—and my journey in tech is far from over.  
 
