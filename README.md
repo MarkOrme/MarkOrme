@@ -27,13 +27,13 @@ This GitHub is my little corner of the internet for sharing:
 ## I'm currently learning 🌱
 - I've been learning VIM and starting to love the speed of navigation without using the mouse.
 - I've been learning more about sorting, hashing, and compression algorithms. Highly recommend [Mastering Algorithms with C by Kyle Loudon](https://g.co/kgs/eWb6rg4)
+- I've started a blog to share ideas about science, technology, engineering, and mathematics. Check out my blog [here](https://blog.markormesher.ca).
 
 ## I'm currently working on 🔭
 I'm in the process of designing a remote-control driveway gate opener. Sure, I could just buy a remote-controlled gate opener off Amazon for about $600, but where’s the fun in that? Instead, I’m taking the DIY route to build one myself. It’s a great opportunity to learn something new, get creative, and hopefully save a bit of money along the way. Stay tuned—this project is just getting started!
 
 ## Let’s Connect! 👯  
-I’m always open to connecting—whether you want to chat about software, collaborate on a project, or share ideas:  
-- [LinkedIn](https://www.linkedin.com/in/mark-ormesher)   
+I’m always open to connecting—whether you want to chat about software, collaborate on a project, or share ideas. My ccontact information is available on my blog: [Blog](https://blog.markormesher.ca)   
 
 Thanks for dropping by. Here’s to building, learning, and having fun! 🚀
 
